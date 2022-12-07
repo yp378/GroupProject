@@ -1,0 +1,84 @@
+4 minute readJune 16, 202112:58 PM EDTLast Updated a year ago
+Regeneron’s antibody therapy cuts deaths among some hospitalised COVID-19 patients -study
+By Alistair Smout
+Summary
+Companies
+Therapy cut deaths by one-fifth in the seronegative
+Can be used in combination with other treatments
+Finding bodes well for other antibody treatments
+LONDON, June 16 (Reuters) - A COVID-19 antibody cocktail developed by Regeneron Pharmaceuticals Inc (REGN.O) and Roche (ROG.S) reduced deaths in hospitalised patients whose own immune systems had failed to produce a response, a large British study found on Wednesday.
+
+The therapy, REGEN-COV, has been granted emergency use authorisation for people with mild-to-moderate COVID-19 in the United States, but results from the RECOVERY trial provide the clearest evidence of its effectiveness among hospitalised patients.
+
+Advertisement · Scroll to continue
+
+Report an ad
+It found that the antibody therapy reduced by a fifth the 28-day mortality of people admitted to hospital with COVID-19 whose immune system had not mounted an antibody response, known as seronegative.
+
+article-prompt-devices
+Register for free to Reuters and know the full story
+
+The result translates into six fewer deaths for every 100 seronegative patients treated with the therapy, researchers said.
+
+There was no discernible effect of the treatment on those who had generated natural antibody responses.
+
+Latest Updates
+Chinese cities ease curbs, full zero-COVID exit seen some way off
+Amgen says experimental obesity drug has promising durability
+United States to end mpox emergency declaration
+Protests in Malta as parliament debates abortion amendment
+China's Xi told EU less lethal Omicron opens way for fewer COVID restrictions
+"People have been very, very sceptical, that any treatment against this particular virus would work by the time people get in hospital," Martin Landray, the joint chief investigator on the trial, told reporters.
+
+"If you haven't raised antibodies of your own, you really would benefit from getting some," he said.
+
+The treatment also shortened the hospital stay of those who were seronegative and reduced their chances of needing a mechanical ventilator, Landray said.
+
+Advertisement · Scroll to continue
+
+Report an ad
+ADVERTISING
+
+
+Regeneron had previously said its treatment had shown enough promise in hospitalised patients to warrant continuing its trial. This data provides the first large-scale confirmation of that assertion.
+
+There were 9,785 patients hospitalised with COVID-19 who were randomly allocated to receive usual care plus the antibody combination therapy or just usual care, of which 30% were seronegative.
+
+The RECOVERY trial also showed the steroid dexamethasone and Roche’s (ROG.S) arthritis drug Actemra (tocilizumab) cut deaths in hospitalised patients.
+
+While those treatments focus on inflammation caused by reaction to the coronavirus, Regeneron's therapy, which belongs to a class of biotech drugs called monoclonal antibodies, mimic natural antibodies the body produces to fight off the infection.
+
+The Regeneron Pharmaceuticals company logo is seen on a building at the company's Westchester campus in Tarrytown, New York
+
+[1/2] The Regeneron Pharmaceuticals company logo is seen on a building at the company's Westchester campus in Tarrytown, New York, U.S. September 17, 2020. REUTERS/Brendan McDermid/File Photo
+
+
+
+
+
+"This is the first time we've got one that's actually targeting the virus itself," Landray said, adding that it could be used along with the other treatments.
+
+"It's not that you do one thing or another thing. These benefits are additive in these patients," he said.
+
+POSSIBILITY FOR OTHERS
+
+Other companies have been developing similar treatments.
+
+U.S. emergency use authorization has been granted to antibody treatments developed by Eli Lilly and Co (LLY.N) as well as by Vir Biotechnology Inc (VIR.O) with GlaxoSmithKline Plc (GSK.L). Both are approved for use in mild-to-moderate cases.
+
+On Tuesday, AstraZeneca (AZN.L) said its antibody therapy had shown no evidence of protecting people from developing the disease following exposure, although other trials of its cocktail as a prevention or a treatment are ongoing.
+
+Landray said the RECOVERY results should give developers of other monoclonal antibody therapies optimism that they can also be used in some hospitalised patients.
+
+"This opens up the possibility for many, many others," he said.
+
+"People see a few negative trials and they say 'well that'll never work' and they opt out and go off and do something else. (But) this is very, very clear, the picture that we've got from this trial."
+
+Regeneron has enlisted Swiss pharmaceutical Roche to help manufacture the drug.
+
+Some cautioned that the full cost-benefit of the drug would not be clear until more details of the study were available.
+
+"The absolute magnitude of benefit in mortality is not large, and it means that a large (possibly 20) number of people have to be treated with the extremely expensive drug for a single death to be prevented," said Stephen Evans, Professor of Pharmacoepidemiology, London School of Hygiene & Tropical Medicine.
+
+“If (patients) can be readily identified and treated it will have some benefit in practice, but its benefits should not be overstated.”
+https://www.reuters.com/business/healthcare-pharmaceuticals/regeneron-covid-19-therapy-cuts-deaths-among-hospitalised-patients-who-lack-2021-06-16/

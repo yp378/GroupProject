@@ -1,0 +1,69 @@
+Regeneron to Slash Price of Cholesterol Drug After Showing It Saved Lives
+Regeneron to Slash Price of Cholesterol Drug After Showing It Saved Lives
+Ben Fidler
+Ben Fidler
+March 10th, 2018
+
+@xconomy
+Like Us
+Xconomy New York — 
+Regeneron Pharmaceuticals and partner Sanofi report new data this morning from a large, highly-anticipated trial suggesting that their drug alirocumab (Praluent) may reduce the risk of death for people with high cholesterol who have recently suffered heart attacks or strokes and are at risk of having another one or dying.
+
+And in an unusual move, Regeneron—based on input from the nonprofit drug-pricing watchdog, the Institute for Clinical and Economic Review (ICER)—vows to cut the cost of the drug if it can get certain concessions from insurers. Regeneron and Amgen, which makes a competing drug, have struggled mightily to get payers to cover these treatments because of their high cost.
+
+ICER often comes up with recommended prices that are far below those set by drug makers. Rarely do companies respond by actually lowering prices the way Regeneron promises to do. The price cut is also notable because the latest clinical data from Regeneron, released today at the American College of Cardiology’s yearly meeting, shows that alirocumab not only lowers the risk of heart attacks like Amgen’s does, but might also lower the chance of death as well—something the rival drug hasn’t been shown to do. Doctors say this finding, though not statistically clear-cut (more on that below), could still drive greater adoption of the expensive cholesterol drug.
+
+The news comes as the high price of prescription drugs remains a big political flashpoint; both new U.S. Health and Human Services Secretary Alex Azar and FDA Commissioner Scott Gottlieb amped up the pressure on drug companies, hospitals, and insurers this week to change payment schemes and increase drug price transparency to help drive down healthcare costs.
+
+Regeneron’s (NASDAQ: REGN) alirocumab and Amgen’s (NASDAQ: AMGN) evolocumab (Repatha), both approved in 2015, belong to a new class of cholesterol lowering medicines called PCSK9 inhibitors, which has been a key battleground between payers and drugmakers. Despite their striking ability to lower gobs of LDL-C or “bad” cholesterol, their sales have been meager compared to Wall Street analysts’ initial bullish multi-billion dollar projections; alirocumab tallied $194 million last year worldwide, evolocumab $319 million. Insurers often balk at their high list prices, some $14,000 apiece per patient, per year.
+
+Problems with patient access have been documented in numerous studies. An Amgen-backed study released yesterday, for instance, found 65 percent of commercially insured and Medicare patients trying to get a PCSK9 blocker were denied access by their health plans in 2016. Cardiologists interviewed by Xconomy say the drugs are almost always rejected upon first request. Months can go by before a patient gets them.
+
+“I don’t have a single patient on a PCSK9 inhibitor,” says Roxana Mehran, director of interventional cardiovascular research and clinical trials at the Icahn School of Medicine at Mount Sinai. “It’s so difficult, I give up.”
+
+Regeneron launched its multi-year, 18,924-patient study, “Odyssey Outcomes,” in 2012 to try to show that alirocumab, when used along with standard treatment with other heart drugs known as statins, can improve patient outcomes, not just cut cholesterol. The study is the second of its kind—following a similar, 27,564-patient trial from Amgen last year. Both studies have been seen as critical to proving PCSK9 blockers are worth their high price tags.
+
+Despite the widespread use of statins, heart disease remains the leading cause of death, according to the Centers for Disease Control and Prevention. Regeneron and Amgen have been hoping to make PCSK9 blockers available to more and more of the millions of patients who can’t reduce their dangerous cholesterol levels with statins, or can’t tolerate them because of side effects. (PCSK9 inhibitors block a protein that interferes with the body’s clearance of bad cholesterol from the blood and are administered, via injection, once or twice a month.)
+
+Before releasing its Odyssey data, Regeneron shared them with ICER so that it could compile an independent review. ICER today says alirocumab is worth between $4,500 and $8,000 per year for the specific group of “high-risk” patients who benefited the most from treatment in Regeneron’s trial—and $2,300 to $3,400 per year for everyone else. The high-risk group is the estimated 1.3 million people in the U.S. and Europe who have had heart attacks or strokes and still can’t get their LDL-C levels below 100 mg/dL of blood despite treatment with statins. Regeneron will now focus its commercial efforts on those patients, and plans to reach out to payers with a deal: provide “straightforward access for high-risk patients,” and it will lower the price of alirocumab, according to a press release.
+
+he types of concessions payers make—say, agreeing to approve patients for treatment more quickly, or cut the amount of paperwork or physician documentation involved. “For the plans that work with us, the [net] price definitely shouldn’t be higher” than $8,000, the top of ICER’s range, Mirza says. Once Regeneron reaches a deal with a payer, the agreed-on net price reduction would apply to all of the health plan’s alirocumab patients, not just high-risk ones. The cuts will be in the form of discounts, rebates, or both, she says.
+
+The hope is that the Odyssey Outcomes data, ICER’s recommendation, and Regeneron’s proposed price cuts “will break the gridlock,” spur greater insurance coverage, and increase the drug’s uptake, says Regeneron president and chief scientific officer George Yancopoulos.
+
+In certain respects, the results of Odyssey Outcomes are comparable to the data from Amgen’s Fourier trial from last year, which tested evolocumab. Regeneron today reports after a median of 2.8 years of treatment, 903 (9.5 percent) of the people on statins and alirocumab suffered heart attacks, strokes, died from coronary heart disease, or were hospitalized for unstable angina. By comparison, 1,052 (11.1 percent) people on statins and a placebo suffered those events—a 15.1 percent difference in relative risk of such events between the two groups, and an absolute risk reduction of 1.6 percent for the alirocumab/statin combination.
+
+Measuring the difference in all of these events was the study’s main goal, and the results are almost identical to Amgen’s Fourier trial—which reported a 15 percent relative risk reduction and a 1.5 percent absolute risk reduction in heart attacks, strokes, cardiovascular deaths, or hospitalizations for unstable angina or bypass surgery after a median of 2.2 years of treatment.
+
+Alirocumab’s benefits were more pronounced amongst the high-risk group. Among the 5,629 people in this category, 324 in the alirocumab group suffered cardiac events, compared to 420 in the placebo group—an absolute risk reduction of 3.4 percent between the two groups.
+
+Another positive for Regeneron: two key safety indicators cardiologists have been watching out for—rates of neurological side effects and the onset of new cases of diabetes—were lower for alirocumab patients than placebo patients.
+
+Cardiologists interviewed by Xconomy last year considered Amgen’s results modest, even disappointing compared to expectations. And indeed, Amit Khera, director of UT Southwestern Medical Center’s preventative cardiology program, says the relative risk reduction on heart attacks and strokes in Odyssey Outcomes is similarly “a bit less than one would expect.” He also notes patients’ LDL-C levels trended upwards over time in Regeneron’s study, “which does raise questions about the durability of the effect, whereas it seemed to be more consistent over time in Fourier.”
+
+But there is a key difference between the studies that Khera and other heart doctors point to. Unlike Fourier, Odyssey Outcomes shows alirocumab was associated with a reduced risk of death—particularly among the high-risk patients Regeneron now intends to focus on.
+
+The key word is “associated.” The number of coronary heart disease deaths—a secondary endpoint of Regeneron’s study—was lower for the alirocumab group (205) than the placebo group (222), but that difference was not statistically significant. The same goes for reported cardiovascular deaths (240 for alirocumab/statins, 271 for statins/placebo). However, the number of deaths reported as a result of all causes was 334 for alirocumab and 392 for the placebo group—that difference was statistically significant. (Though it’s tricky to compare the results of one study to another, in Amgen’s trial, 444 patients on evolocumab/statins died, compared to 426 in the statins/placebo group.)
+
+Yancopoulos, for his part, says the all-cause death number in Regeneron’s study is “probably the most precise” of those figures. But the mixed results do create a caveat to Regeneron’s findings: the company, Mehran says, “can’t claim,” going forward, that the drug reduces deaths. In addition, Khera notes the magnitude of the benefit is equal to a 0.6 percent absolute risk reduction of death. That means one “would have to treat 167 people over 2.8 years to save one life at a high cost.”
+
+Nonetheless, Yancopoulos hopes the information will be included in the drug’s updated label. And Khera and other cardiologists who aren’t associated with Regeneron still considered the result important, signaling perhaps it might sway insurers.
+
+“It’s a really significant additive finding,” says Khera. “I think it gets much harder for payers to ignore that, and lowers the large barrier that’s been put up to get these drugs.”
+
+Seth Martin, who co-directs Johns Hopkins Medicine’s Advanced Lipid Disorders Center, says the results give him more confidence in evolocumab as well. Fourier was a shorter trial, and enrolled patients at lower risk for another major cardiac event. Had Amgen designed its trial the same way as Regeneron’s, perhaps it would’ve gotten a similar result, says Martin. He expects prescribing one drug versus the other will come down to which drug each patient’s insurer prefers.
+
+“This is a reassuring result that I truly believe is a class effect,” he says. “If there are other clinicians who are preferentially using evolocumab because it had stronger data, this will swing the pendulum back.”
+
+A significant price change could swing the pendulum further in alirocumab’s favor. Regeneron set the high price point for PCSK9 inhibitors when the FDA approved alirocumab in 2015, one month ahead of evolocumab. But alirocumab has since fallen behind evolocumab in sales for various reasons, among them the earlier completion of Fourier compared to Odyssey. Regeneron has since begun incorporating ICER’s assessments into its prices. After ICER concluded that Regeneron’s soon-to-be-launched eczema drug dupilumab (Dupixent) is worth between $30,516 and $43,726 per patient, per year, Regeneron priced it at $37,000 when it was approved. It’s turned to ICER again as part of a decision to cut the price of alirocumab.
+
+“This is a recognition that it’s not getting to the people who need it,” Mirza says.
+
+Will Regeneron’s actions change things with insurers? That was the hope with Fourier, and Amgen last year trumpeted, along with its clinical results, that it would start giving insurers refunds for eligible patients who have heart attacks or strokes after taking evolocumab. The FDA updated evolocumab’s label in December to include new language showing it could lower the rate of such events.
+
+Yet ICER concluded, after Fourier, that evolocumab is worth between $1,700 and $2,200 per patient, per year since it didn’t reduce the risk of death. And heart doctors Xconomy spoke with say Fourier’s impact on their interactions with payers so far has been minimal. Khera said it’s been “a tad bit easier” to get patients access, for instance, while Mehran hasn’t seen any impact. “More recently it has gotten better,” Martin adds. A clearer picture could come as Amgen reports further sales data in the wake of evolocumab’s new label.
+
+Regeneron hopes to have better luck with insurers given its data, its price concessions and ICER’s input. If not, “then people better really start going after the payers,” Yancopoulos says. “Because there’s no justification left [for denying coverage].”
+
+Clinicians, meanwhile, just want to be able to get these drugs in the hands of patients who can benefit. “This is a welcome change,” Martin says of the price cut. “I hope that Amgen will follow the lead.”
+https://xconomy.com/new-york/2018/03/10/regeneron-to-slash-price-of-cholesterol-drug-after-showing-it-saved-lives/2/

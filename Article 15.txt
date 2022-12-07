@@ -1,0 +1,16 @@
+EECS PhD student named first recipient of Regeneron Prize
+Office of the Dean for Graduate Education
+Publication Date:October 11, 2013
+Cody Gilleland, a PhD student in the Department of Electrical Engineering and Computer Science (EECS), was recently awarded the first ever Regeneron Prize for Creative Innovation by a Graduate Student.
+
+According to Regeneron Pharmaceuticals, which created the annual prize, this “new initiative [was] designed to acknowledge, reward, and foster talented early-career scientists.” Gilleland was nominated by the Office of the Dean for Graduate Education.
+
+As a key component of their application, nominees were asked to draft a proposal explaining a “dream” project in biomedical research. This allowed Regeneron’s selection committee to gain insight into the nominees’ creativity and ability to think independently as a scientist.
+
+Gilleland explains his novel research: “Revealing the function of genes in living organisms relies on primarily manual techniques that have remained relatively unchanged for decades and are unable to scale due to human fatigue. My research focuses on bringing Moore’s Law to early stage drug discovery by developing new tools that automate experimentation on small model organisms.”
+
+In the world of computer processing, Moore’s Law holds that the number of transistors per square inch on integrated circuits will double — along with the circuit’s processing power — approximately every 18 months.
+
+Of his Regeneron proposal, Gilleland says, “I proposed the development of a new suite of high-throughput technologies to accelerate the discovery and validation of novel drug targets for potential therapeutic intervention, prior to moving into a mouse model.”
+
+Ten finalists were invited to Regeneron in April to give presentations on their proposal. Upon being selected for the prize, Gilleland was awarded $50,000 and MIT received a $5,000 donation to support a seminar series. The donation has since been given to EECS to support ongoing seminars.
